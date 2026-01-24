@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **RAG Systems**
 
-- 👨‍💻 All of my projects are available at [kaggle]((https://www.kaggle.com/jockeroika))
+- 👨‍💻 All of my projects are available at [kaggle]([(https://www.kaggle.com/jockeroika)])
 
 - 📫 How to reach me **jockeroika@gmail.com**
 
