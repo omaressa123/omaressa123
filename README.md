@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omaressa123" alt="omaressa123" /></a> </p>
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **RAG Systems**
 
-- 👨‍💻 All of my projects are available at [kaggle](kaggle)
+- 👨‍💻 All of my projects are available at [kaggle]((https://www.kaggle.com/jockeroika))
 
 - 📫 How to reach me **jockeroika@gmail.com**
 
